@@ -1,20 +1,18 @@
-html { font-size: 20px; }
-html h1 { font-size: 2rem; }  /*2 * 20 = 40px */
-h1 > .principal { font-size: 1.4em; } /* 1.4 * 40 = 56px */
-html .secundario { font-size: 1.4rem; } /* 1.4 * 20 = 28px */
+/* Color Theme Swatches in Hex */
+
+.principal { color: #BF2A45; }
+.background { color: #2C7BBF; }
+.destaque { color: #F2EA7E; }
+.Moda-4-hex { color: #F2C879; }
+.Moda-5-hex { color: #D93232; }
 
 
-
-
-
-.cor {
-    background: rgb(219, 78, 68);
+html { 
+    background: #2C7BBF;
+    color: #F2EA7E;
 }
 
-.cor-clara { 
-    background: rgb(252, 90, 78);
-}
 
-.cor-escura {
-    background: rgb(186, 66, 58);
-}
+
+
+
